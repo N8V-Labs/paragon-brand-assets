@@ -28,7 +28,7 @@ Available in **Black** and **White** variants:
 
 These assets are provided for use by media, partners, and community members. Please follow the brand guidelines when using Paragon assets.
 
-For brand usage questions or partnership materials, contact Kevin Leu at kevin@paragon.trade.
+For brand usage questions or partnership materials, reach out via [Telegram](https://t.me/paragon_trade).
 
 ## Links
 
