@@ -16,6 +16,16 @@ Available in **Black** and **White** variants:
 | Wordmark Padded | `Black-Wordmark-Padded.svg` | `White-Wordmark-Padded.svg` |
 | Vertical | `Black-Vertical.svg` | `White-vertical.svg` |
 
+### Market Logos (`Market_Logos/`)
+
+Index market logos using the Paragon brand gradient:
+
+| Market | File |
+|--------|------|
+| BTC.D | `BTCD.svg` |
+| TOTAL2 | `TOTAL2.svg` |
+| OTHERS | `OTHERS.svg` |
+
 ### Brand Guidelines
 
 - `Paragon-Brandguidelines-V1.pdf` - Full brand guidelines document
